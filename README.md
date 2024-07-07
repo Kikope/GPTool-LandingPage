@@ -1,5 +1,3 @@
-
-
 # GPTool LandingPage
 
 <img align="left" alt="GPTool" height="190" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/GPTool/GPToolLogo1.gif">
